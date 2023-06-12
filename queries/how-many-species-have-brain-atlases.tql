@@ -1,0 +1,3 @@
+title How many species have brain atlases?
+select atlas ebrains brainMuseum atlas
+where type = species

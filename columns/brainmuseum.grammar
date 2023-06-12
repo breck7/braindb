@@ -1,0 +1,4 @@
+brainMuseumParser
+ extends abstractAtlasParser
+ description What is the URL to this species on BrainMuseum.org?
+ string sourceDomain brainmuseum.org

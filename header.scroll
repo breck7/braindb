@@ -1,7 +1,0 @@
-importOnly
-git https://github.com/breck7/braindb
-email feedback@braindb.com
-baseUrl https://braindb.com/
-metaTags
-scrollCssTag
-scrollHeader
