@@ -1,0 +1,20 @@
+{
+  "name": "braindb",
+  "version": "1.0.0",
+  "description": "A public domain knowledge graph containing key data on the human brain in one file.",
+  "main": "index.js",
+  "scripts": {
+    "test": "truebase test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/breck7/braindb.git"
+  },
+  "bugs": {
+    "url": "https://github.com/breck7/braindb/issues"
+  },
+  "homepage": "https://github.com/breck7/braindb#readme",
+  "dependencies": {
+    "truebase": "^18.1.0"
+  }
+}

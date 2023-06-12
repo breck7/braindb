@@ -4,7 +4,3 @@ braindbParser
  string fileExtension bdb
  inScope abstractTrueBaseColumnParser
  catchAllParser trueBaseErrorParser
-titleParser
- extends abstractStringColumnParser
-diameterParser
- extends abstractIntColumnParser

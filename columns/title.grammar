@@ -1,0 +1,4 @@
+titleParser
+ description What is the title of this entity?
+ extends abstractStringColumnParser
+ required
