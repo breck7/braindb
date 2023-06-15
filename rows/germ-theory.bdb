@@ -1,0 +1,7 @@
+title Germ Theory
+wikipedia https://en.wikipedia.org/wiki/Germ_theory_of_disease
+type model
+model
+ type microbe
+ // https://en.wikipedia.org/wiki/Microorganism
+ microbe causes condition
