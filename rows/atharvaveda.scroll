@@ -1,0 +1,20 @@
+import ../header.scroll
+viewSourceUrl /rows/atharvaveda.bdb
+keyboardNav anxiety-disorder.html attention-deficit-hyperactivity-disorder.html
+html <a class="trueBaseThemePreviousItem" href="anxiety-disorder.html">&lt;</a><a class="trueBaseThemeNextItem" href="attention-deficit-hyperactivity-disorder.html">&gt;</a>
+
+title Atharvaveda
+
+
+
+Edit
+ link /edit.html?id=atharvaveda
+
+code
+ wikipedia https://en.wikipedia.org/wiki/Atharvaveda
+ title Atharvaveda
+ type text
+ appeared -1200
+ country India
+
+import ../footer.scroll

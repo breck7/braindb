@@ -1,0 +1,18 @@
+import ../header.scroll
+viewSourceUrl /rows/cerebellum.bdb
+keyboardNav cat.html cerebrum.html
+html <a class="trueBaseThemePreviousItem" href="cat.html">&lt;</a><a class="trueBaseThemeNextItem" href="cerebrum.html">&gt;</a>
+
+title Cerebellum
+
+
+
+Edit
+ link /edit.html?id=cerebellum
+
+code
+ wikipedia https://en.wikipedia.org/wiki/Cerebellum
+ title Cerebellum
+ type part
+
+import ../footer.scroll

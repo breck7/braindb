@@ -1,0 +1,20 @@
+import ../header.scroll
+viewSourceUrl /rows/huangchi-neijing.bdb
+keyboardNav hippocampus.html human.html
+html <a class="trueBaseThemePreviousItem" href="hippocampus.html">&lt;</a><a class="trueBaseThemeNextItem" href="human.html">&gt;</a>
+
+title Huangdi Neijing
+
+
+
+Edit
+ link /edit.html?id=huangchi-neijing
+
+code
+ title Huangdi Neijing
+ wikipedia https://en.wikipedia.org/wiki/Huangdi_Neijing
+ country China
+ appeared -200
+ type text
+
+import ../footer.scroll

@@ -1,0 +1,4 @@
+ebrainsParser
+ extends abstractAtlasParser
+ description What is the URL to an EBrains atlas for this species?
+ string sourceDomain ebrains.eu

@@ -1,0 +1,18 @@
+import ../header.scroll
+viewSourceUrl /rows/stroke.bdb
+keyboardNav schizophrenia.html thalamus.html
+html <a class="trueBaseThemePreviousItem" href="schizophrenia.html">&lt;</a><a class="trueBaseThemeNextItem" href="thalamus.html">&gt;</a>
+
+title Stroke
+
+
+
+Edit
+ link /edit.html?id=stroke
+
+code
+ wikipedia https://en.wikipedia.org/wiki/Stroke
+ title Stroke
+ type condition
+
+import ../footer.scroll

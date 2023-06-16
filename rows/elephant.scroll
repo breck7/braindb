@@ -1,0 +1,19 @@
+import ../header.scroll
+viewSourceUrl /rows/elephant.bdb
+keyboardNav edwin-smith-papyrus.html epilepsy.html
+html <a class="trueBaseThemePreviousItem" href="edwin-smith-papyrus.html">&lt;</a><a class="trueBaseThemeNextItem" href="epilepsy.html">&gt;</a>
+
+title Elephant Brain
+
+
+
+Edit
+ link /edit.html?id=elephant
+
+code
+ title Elephant Brain
+ type species
+ reference https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4053853/
+ brainMuseum https://brainmuseum.org/specimens/proboscidea/elephant/index.html
+
+import ../footer.scroll

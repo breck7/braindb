@@ -1,0 +1,18 @@
+import ../header.scroll
+viewSourceUrl /rows/monkey.bdb
+keyboardNav migraine.html mouse.html
+html <a class="trueBaseThemePreviousItem" href="migraine.html">&lt;</a><a class="trueBaseThemeNextItem" href="mouse.html">&gt;</a>
+
+title Monkey Brain
+
+
+
+Edit
+ link /edit.html?id=monkey
+
+code
+ title Monkey Brain
+ type species
+ ebrains https://www.ebrains.eu/tools/monkey-brain-atlas
+
+import ../footer.scroll

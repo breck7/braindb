@@ -1,0 +1,6 @@
+braindbParser
+ root
+ string tableName braindb
+ string fileExtension bdb
+ inScope abstractTrueBaseColumnParser blankLineParser
+ catchAllParser trueBaseErrorParser

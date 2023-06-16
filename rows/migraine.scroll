@@ -1,0 +1,18 @@
+import ../header.scroll
+viewSourceUrl /rows/migraine.bdb
+keyboardNav midbrain.html monkey.html
+html <a class="trueBaseThemePreviousItem" href="midbrain.html">&lt;</a><a class="trueBaseThemeNextItem" href="monkey.html">&gt;</a>
+
+title Migraine
+
+
+
+Edit
+ link /edit.html?id=migraine
+
+code
+ wikipedia https://en.wikipedia.org/wiki/Migraine
+ title Migraine
+ type condition
+
+import ../footer.scroll

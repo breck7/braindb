@@ -1,0 +1,18 @@
+import ../header.scroll
+viewSourceUrl /rows/dog.bdb
+keyboardNav depression.html edwin-smith-papyrus.html
+html <a class="trueBaseThemePreviousItem" href="depression.html">&lt;</a><a class="trueBaseThemeNextItem" href="edwin-smith-papyrus.html">&gt;</a>
+
+title Dog Brain
+
+
+
+Edit
+ link /edit.html?id=dog
+
+code
+ title Dog Brain
+ type species
+ atlas http://vanat.cvm.umn.edu/brainAtlas/
+
+import ../footer.scroll

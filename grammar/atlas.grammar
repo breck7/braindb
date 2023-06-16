@@ -1,0 +1,9 @@
+abstractAtlasParser
+ extends abstractUrlColumnParser
+ description What is the URL to a brain atlas or virtual atlas for this species?
+ // todo: add constraint, like "naIfTypeNot species"
+atlasParser
+ extends abstractAtlasParser
+atlasPaperParser
+ extends abstractAtlasParser
+ description What is a URL to a paper about an atlas for this species?

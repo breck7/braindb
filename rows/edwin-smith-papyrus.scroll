@@ -1,0 +1,20 @@
+import ../header.scroll
+viewSourceUrl /rows/edwin-smith-papyrus.bdb
+keyboardNav dog.html elephant.html
+html <a class="trueBaseThemePreviousItem" href="dog.html">&lt;</a><a class="trueBaseThemeNextItem" href="elephant.html">&gt;</a>
+
+title Edwin Smith Papyrus
+
+
+
+Edit
+ link /edit.html?id=edwin-smith-papyrus
+
+code
+ wikipedia https://en.wikipedia.org/wiki/Edwin_Smith_Papyrus
+ title Edwin Smith Papyrus
+ type text
+ appeared -1600
+ country Egypt
+
+import ../footer.scroll

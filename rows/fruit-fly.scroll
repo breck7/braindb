@@ -1,0 +1,18 @@
+import ../header.scroll
+viewSourceUrl /rows/fruit-fly.bdb
+keyboardNav epilepsy.html germ-theory.html
+html <a class="trueBaseThemePreviousItem" href="epilepsy.html">&lt;</a><a class="trueBaseThemeNextItem" href="germ-theory.html">&gt;</a>
+
+title Fruit Fly Brain
+
+
+
+Edit
+ link /edit.html?id=fruit-fly
+
+code
+ title Fruit Fly Brain
+ type species
+ atlas https://www.virtualflybrain.org/
+
+import ../footer.scroll

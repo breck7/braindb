@@ -1,0 +1,296 @@
+{
+  "acupuncture": {
+    "title": "Acupuncture",
+    "wikipedia": "https://en.wikipedia.org/wiki/Acupuncture",
+    "type": "procedure",
+    "appeared": -100,
+    "country": [
+      "China"
+    ]
+  },
+  "alzheimers-disease": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Alzheimer%27s_disease",
+    "title": "Alzheimer's disease",
+    "type": "condition"
+  },
+  "amygdala": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Amygdala",
+    "title": "Amygdala",
+    "type": "part"
+  },
+  "anxiety-disorder": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Anxiety_disorder",
+    "title": "Anxiety disorder",
+    "type": "condition"
+  },
+  "atharvaveda": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Atharvaveda",
+    "title": "Atharvaveda",
+    "type": "text",
+    "appeared": -1200,
+    "country": [
+      "India"
+    ]
+  },
+  "attention-deficit-hyperactivity-disorder": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Attention_deficit_hyperactivity_disorder",
+    "title": "Attention deficit hyperactivity disorder",
+    "type": "condition"
+  },
+  "autism-spectrum-disorder": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Autism_spectrum_disorder",
+    "title": "Autism spectrum disorder",
+    "type": "condition"
+  },
+  "ayurveda": {
+    "title": "Ayurveda",
+    "type": "philosophy model",
+    "wikipedia": "https://en.wikipedia.org/wiki/Ayurveda",
+    "country": [
+      "India"
+    ]
+  },
+  "basal-ganglia": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Basal_ganglia",
+    "title": "Basal Ganglia",
+    "type": "part"
+  },
+  "bipolar-disorder": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Bipolar_disorder",
+    "title": "Bipolar disorder",
+    "type": "condition"
+  },
+  "brain-tumor": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Brain_tumor",
+    "title": "Brain tumor",
+    "type": "condition"
+  },
+  "c-elegans": {
+    "title": "C. Elegans Brain ",
+    "type": "species",
+    "atlas": "https://wormatlas.org/"
+  },
+  "cat": {
+    "title": "Cat Brain",
+    "type": "species",
+    "atlas": "https://brainmuseum.org/specimens/carnivora/cat/sections/thumbnail.html"
+  },
+  "cerebellum": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Cerebellum",
+    "title": "Cerebellum",
+    "type": "part"
+  },
+  "cerebrum": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Cerebrum",
+    "title": "Cerebrum",
+    "type": "part"
+  },
+  "corpus-callosum": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Corpus_callosum",
+    "title": "Corpus Callosum",
+    "type": "part"
+  },
+  "dementia": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Dementia",
+    "title": "Dementia",
+    "type": "condition"
+  },
+  "depression": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Depression_(mood)",
+    "title": "Depression",
+    "type": "condition"
+  },
+  "dog": {
+    "title": "Dog Brain",
+    "type": "species",
+    "atlas": "http://vanat.cvm.umn.edu/brainAtlas/"
+  },
+  "edwin-smith-papyrus": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Edwin_Smith_Papyrus",
+    "title": "Edwin Smith Papyrus",
+    "type": "text",
+    "appeared": -1600,
+    "country": [
+      "Egypt"
+    ]
+  },
+  "elephant": {
+    "title": "Elephant Brain",
+    "type": "species",
+    "reference": [
+      "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4053853/"
+    ],
+    "brainMuseum": "https://brainmuseum.org/specimens/proboscidea/elephant/index.html"
+  },
+  "epilepsy": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Epilepsy",
+    "title": "Epilepsy",
+    "type": "condition"
+  },
+  "fruit-fly": {
+    "title": "Fruit Fly Brain",
+    "type": "species",
+    "atlas": "https://www.virtualflybrain.org/"
+  },
+  "germ-theory": {
+    "title": "Germ Theory",
+    "wikipedia": "https://en.wikipedia.org/wiki/Germ_theory_of_disease",
+    "type": "model",
+    "model": "type microbe\n// https://en.wikipedia.org/wiki/Microorganism\nmicrobe causes condition"
+  },
+  "hippocampus": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Hippocampus",
+    "title": "Hippocampus",
+    "type": "part"
+  },
+  "huangchi-neijing": {
+    "title": "Huangdi Neijing",
+    "wikipedia": "https://en.wikipedia.org/wiki/Huangdi_Neijing",
+    "country": [
+      "China"
+    ],
+    "appeared": -200,
+    "type": "text"
+  },
+  "human": {
+    "title": "Human Brain",
+    "type": "species",
+    "wikipedia": "https://en.wikipedia.org/wiki/Human_brain",
+    "ebrains": "https://www.ebrains.eu/tools/human-brain-atlas"
+  },
+  "humoral-theory": {
+    "title": "Humoral Theory",
+    "type": "philosophy model",
+    "wikipedia": "https://en.wikipedia.org/wiki/Humorism",
+    "appeared": -400,
+    "model": "type humor\nbloodHumor\nphlegmHumor\nyellowBileHumor\nblackBileHumor\nhumor causes condition"
+  },
+  "huntingtons-disease": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Huntington%27s_disease",
+    "title": "Huntington's disease",
+    "type": "condition"
+  },
+  "hypothalamus": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Hypothalamus",
+    "title": "Hypothalamus",
+    "type": "part"
+  },
+  "kangaroo": {
+    "title": "Kangaroo Brain",
+    "type": "species",
+    "brainMuseum": "https://brainmuseum.org/specimens/diprotodontia/redkangaroo/index.html"
+  },
+  "miasma-theory": {
+    "title": "Miasma Theory",
+    "type": "model",
+    "model": "type miasma\nmiasma causes condition"
+  },
+  "midbrain": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Midbrain",
+    "title": "Midbrain",
+    "type": "part"
+  },
+  "migraine": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Migraine",
+    "title": "Migraine",
+    "type": "condition"
+  },
+  "monkey": {
+    "title": "Monkey Brain",
+    "type": "species",
+    "ebrains": "https://www.ebrains.eu/tools/monkey-brain-atlas"
+  },
+  "mouse": {
+    "title": "Mouse Brain",
+    "type": "species",
+    "wikipedia": "https://en.wikipedia.org/wiki/Mouse_brain",
+    "ebrains": "https://www.ebrains.eu/tools/mouse-brain"
+  },
+  "multiple-sclerosis": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Multiple_sclerosis",
+    "title": "Multiple sclerosis",
+    "type": "condition"
+  },
+  "narcolepsy": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Narcolepsy",
+    "title": "Narcolepsy",
+    "type": "condition"
+  },
+  "obsessive-compulsive-disorder": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Obsessive%E2%80%93compulsive_disorder",
+    "title": "Obsessive-compulsive disorder",
+    "type": "condition"
+  },
+  "octopus": {
+    "title": "Octopus Brain",
+    "type": "species",
+    "atlasPaper": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6120969/"
+  },
+  "parkinsons-disease": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Parkinson%27s_disease",
+    "title": "Parkinson's disease",
+    "type": "condition"
+  },
+  "pons": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Pons",
+    "title": "Pons",
+    "type": "part"
+  },
+  "post-traumatic-stress-disorder": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Post-traumatic_stress_disorder",
+    "title": "Post-traumatic stress disorder",
+    "type": "condition"
+  },
+  "rabbit": {
+    "title": "Rabbit Brain",
+    "type": "species",
+    "brainMuseum": "https://brainmuseum.org/specimens/lagomorpha/domesticrabbit/index.html"
+  },
+  "rat": {
+    "title": "Rat Brain",
+    "type": "species",
+    "ebrains": "https://www.ebrains.eu/tools/rat-brain"
+  },
+  "schizophrenia": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Schizophrenia",
+    "title": "Schizophrenia",
+    "type": "condition"
+  },
+  "stroke": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Stroke",
+    "title": "Stroke",
+    "type": "condition"
+  },
+  "thalamus": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Thalamus",
+    "title": "Thalamus",
+    "type": "part"
+  },
+  "tourette-syndrome": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Tourette_syndrome",
+    "title": "Tourette syndrome",
+    "type": "condition"
+  },
+  "traumatic-brain-injury": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Traumatic_brain_injury",
+    "title": "Traumatic brain injury",
+    "type": "condition"
+  },
+  "trepanation": {
+    "title": "Trepanation",
+    "wikipedia": "https://en.wikipedia.org/wiki/Trepanning",
+    "appeared": -5000,
+    "description": "A surgical intervention in which a hole is drilled or scraped into the human skull.",
+    "type": "procedure"
+  },
+  "zebra": {
+    "title": "Zebra Brain",
+    "type": "species",
+    "brainMuseum": "https://brainmuseum.org/specimens/perissodactyla/zebra/index.html"
+  },
+  "zebrafish": {
+    "title": "Zebrafish Brain",
+    "type": "species",
+    "atlas": "https://azba.wayne.edu/"
+  }
+}
