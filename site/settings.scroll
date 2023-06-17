@@ -2,7 +2,7 @@ importOnly
 
 replaceDefault BASE_URL 
 replace SITE_NAME BrainDB
-replace SITE_DESCRIPTION key data about the brain in one place
+replace SITE_DESCRIPTION key concepts about the brain in one model
 replace TRUEBASE_ID braindb
 replace DOMAIN_NAME braindb.com
 replace GIT_URL https://github.com/breck7/braindb

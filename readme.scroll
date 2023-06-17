@@ -1,8 +1,8 @@
-# BrainDB: A public domain knowledge graph containing key concepts to understand the human brain.
+# BrainDB: key concepts about the brain in one model.
 
 import code/ciBadges.scroll
 
-BrainDB is a public domain database and website containing key concepts to understand the human brain.
+BrainDB is a public domain database and website containing key concepts to understand the human brain integrated into one model.
 
 BrainDB provides a large structured table to give people a new perspective to understand their brains. You can ask low level and high level questions and get data driven answers.
 
@@ -46,11 +46,11 @@ BrainDB content is published to the public domain and you can use it freely. If 
 code
  https://braindb.com
 code
- BrainDB team. (2023) - "BrainDB: A public domain knowledge graph containing key concepts to understand the human brain.". Retrieved from: 'https://braindb.com' [Online Resource]
+ BrainDB team. (2023) - "BrainDB: A public domain knowledge graph containing key concepts about the brain in one model.". Retrieved from: 'https://braindb.com' [Online Resource]
 code
  @article{braindb,
   author = {BrainDB team},
-  title = {BrainDB: A public domain knowledge graph containing key concepts to understand the human brain.},
+  title = {BrainDB: A public domain knowledge graph containing key concepts about the brain in one model.},
   journal = {BrainDB},
   year = {2023},
   note = {https://braindb.com}
