@@ -1,7 +1,7 @@
 Index,Column,ColumnLink,Values,Coverage,Type,Example,Description,Source,SourceLink,Definition,DefinitionLink
-1,title,search.html?q=select+title%0D%0AnotMissing+title%0D%0AsortBy+title%0D%0Areverse,53,100%,string,Acupuncture,What is the title of this entity?,,,title.grammar,/grammar/title.grammar#L1
-2,type,search.html?q=select+type%0D%0AnotMissing+type%0D%0AsortBy+type%0D%0Areverse,53,100%,enum,procedure,What kind of thing is this entity?,,,type.grammar,/grammar/type.grammar#L4
-3,wikipedia,search.html?q=select+wikipedia%0D%0AnotMissing+wikipedia%0D%0AsortBy+wikipedia%0D%0Areverse,40,75%,url,https://en.wikipedia.org/wiki/,"What is the URL of this entity on Wikipedia, if and only if it has a page dedicated to it?",wikipedia.org,https://wikipedia.org,wikipedia.grammar,/grammar/wikipedia.grammar#L1
+1,title,search.html?q=select+title%0D%0AnotMissing+title%0D%0AsortBy+title%0D%0Areverse,53,100%,string,Acupuncture,What is the title of this concept?,,,title.grammar,/grammar/title.grammar#L1
+2,type,search.html?q=select+type%0D%0AnotMissing+type%0D%0AsortBy+type%0D%0Areverse,53,100%,enum,procedure,What kind(s) of concept is this?,,,type.grammar,/grammar/type.grammar#L4
+3,wikipedia,search.html?q=select+wikipedia%0D%0AnotMissing+wikipedia%0D%0AsortBy+wikipedia%0D%0Areverse,40,75%,url,https://en.wikipedia.org/wiki/,"What is the URL of this concept on Wikipedia, if and only if it has a page dedicated to it?",wikipedia.org,https://wikipedia.org,wikipedia.grammar,/grammar/wikipedia.grammar#L1
 4,appeared,search.html?q=select+appeared%0D%0AnotMissing+appeared%0D%0AsortBy+appeared%0D%0Areverse,6,11%,integer,-100,What year did this first appear?,,,history.grammar,/grammar/history.grammar#L1
 5,country,search.html?q=select+country%0D%0AnotMissing+country%0D%0AsortBy+country%0D%0Areverse,5,9%,unspecified,China,What country did this first appear in?,,,country.grammar,/grammar/country.grammar#L3
 6,atlas,search.html?q=select+atlas%0D%0AnotMissing+atlas%0D%0AsortBy+atlas%0D%0Areverse,5,9%,url,https://wormatlas.org/,What is the URL to a brain atlas or virtual atlas for this species?,,,atlas.grammar,/grammar/atlas.grammar#L5

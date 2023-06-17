@@ -2,14 +2,14 @@ import header.scroll
 
 canonicalLink 
 
-title What are all the entries in BrainDB?
+title What are all the concepts in BrainDB?
  hidden
 
 
 
 html
  <form method="get" action="/search.html" class="tqlForm">
- <textarea id="tqlInput" name="q">title What are all the entries in BrainDB?</textarea>
+ <textarea id="tqlInput" name="q">title What are all the concepts in BrainDB?</textarea>
  <input type="submit" value="Search"></form>
 
 <div id="tqlErrors"></div>
@@ -17,7 +17,7 @@ html
 Searched 53 files and found 53 matches in 0.01s. <span id="publishQuery"></span>
  class trueBaseThemeSearchResultsHeader
 
-# What are all the entries in BrainDB?
+# What are all the concepts in BrainDB?
 
 
 table  DeLiM 
@@ -77,10 +77,10 @@ table  DeLiM
  Zebrafish Brain DeLiM /rows/zebrafish.html
 
 Results as JSON, CSV, TSV or Tree
- link /search.json?q=title%20What%20are%20all%20the%20entries%20in%20BrainDB%3F JSON
- link /search.csv?q=title%20What%20are%20all%20the%20entries%20in%20BrainDB%3F CSV
- link /search.tsv?q=title%20What%20are%20all%20the%20entries%20in%20BrainDB%3F TSV
- link /search.tree?q=title%20What%20are%20all%20the%20entries%20in%20BrainDB%3F Tree
+ link /search.json?q=title%20What%20are%20all%20the%20concepts%20in%20BrainDB%3F JSON
+ link /search.csv?q=title%20What%20are%20all%20the%20concepts%20in%20BrainDB%3F CSV
+ link /search.tsv?q=title%20What%20are%20all%20the%20concepts%20in%20BrainDB%3F TSV
+ link /search.tree?q=title%20What%20are%20all%20the%20concepts%20in%20BrainDB%3F Tree
 
 <script>document.addEventListener("DOMContentLoaded", () => TrueBaseBrowserApp.getApp().render().renderSearchPage())</script>
 

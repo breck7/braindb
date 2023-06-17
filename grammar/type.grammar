@@ -2,7 +2,7 @@ typeCell
  enum species part condition procedure model philosophy text
  highlightScope constant.language
 typeParser
- description What kind of thing is this entity?
+ description What kind(s) of concept is this?
  cells columnNameCell typeCell
  catchAllCellType typeCell
  extends abstractEnumColumnParser
