@@ -1,0 +1,20 @@
+import ../header.scroll
+viewSourceUrl /concepts/acupuncture.bdb
+keyboardNav zebrafish.html alzheimers-disease.html
+html <a class="trueBaseThemePreviousItem" href="zebrafish.html">&lt;</a><a class="trueBaseThemeNextItem" href="alzheimers-disease.html">&gt;</a>
+
+title Acupuncture
+
+
+
+Edit
+ link /edit.html?id=acupuncture
+
+code
+ title Acupuncture
+ wikipedia https://en.wikipedia.org/wiki/Acupuncture
+ type procedure
+ appeared -100
+ country China
+
+import ../footer.scroll

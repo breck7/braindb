@@ -1,0 +1,18 @@
+import ../header.scroll
+viewSourceUrl /concepts/huntingtons-disease.bdb
+keyboardNav humoral-theory.html hypothalamus.html
+html <a class="trueBaseThemePreviousItem" href="humoral-theory.html">&lt;</a><a class="trueBaseThemeNextItem" href="hypothalamus.html">&gt;</a>
+
+title Huntington's disease
+
+
+
+Edit
+ link /edit.html?id=huntingtons-disease
+
+code
+ wikipedia https://en.wikipedia.org/wiki/Huntington%27s_disease
+ title Huntington's disease
+ type condition
+
+import ../footer.scroll

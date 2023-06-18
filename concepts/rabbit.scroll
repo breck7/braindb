@@ -1,0 +1,18 @@
+import ../header.scroll
+viewSourceUrl /concepts/rabbit.bdb
+keyboardNav post-traumatic-stress-disorder.html rat.html
+html <a class="trueBaseThemePreviousItem" href="post-traumatic-stress-disorder.html">&lt;</a><a class="trueBaseThemeNextItem" href="rat.html">&gt;</a>
+
+title Rabbit Brain
+
+
+
+Edit
+ link /edit.html?id=rabbit
+
+code
+ title Rabbit Brain
+ type species
+ brainMuseum https://brainmuseum.org/specimens/lagomorpha/domesticrabbit/index.html
+
+import ../footer.scroll

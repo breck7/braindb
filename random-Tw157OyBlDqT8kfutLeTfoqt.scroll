@@ -1,0 +1,50 @@
+import header.scroll
+
+canonicalLink 
+
+title How many species have brain atlases?
+ hidden
+
+
+
+html
+ <form method="get" action="/search.html" class="tqlForm">
+ <textarea id="tqlInput" name="q">title How many species have brain atlases?
+ select atlas ebrains brainMuseum atlas
+ where type = species</textarea>
+ <input type="submit" value="Search"></form>
+
+<div id="tqlErrors"></div>
+
+Searched 53 files and found 14 matches in 0.01s. <span id="publishQuery"></span>
+ class trueBaseThemeSearchResultsHeader
+
+# How many species have brain atlases?
+
+
+table  DeLiM 
+ title DeLiM titleLink DeLiM atlas DeLiM ebrains DeLiM brainMuseum DeLiM atlas
+ C. Elegans Brain  DeLiM /concepts/c-elegans.html DeLiM https://wormatlas.org/ DeLiM  DeLiM  DeLiM https://wormatlas.org/
+ Cat Brain DeLiM /concepts/cat.html DeLiM https://brainmuseum.org/specimens/carnivora/cat/sections/thumbnail.html DeLiM  DeLiM  DeLiM https://brainmuseum.org/specimens/carnivora/cat/sections/thumbnail.html
+ Dog Brain DeLiM /concepts/dog.html DeLiM http://vanat.cvm.umn.edu/brainAtlas/ DeLiM  DeLiM  DeLiM http://vanat.cvm.umn.edu/brainAtlas/
+ Elephant Brain DeLiM /concepts/elephant.html DeLiM  DeLiM  DeLiM https://brainmuseum.org/specimens/proboscidea/elephant/index.html DeLiM 
+ Fruit Fly Brain DeLiM /concepts/fruit-fly.html DeLiM https://www.virtualflybrain.org/ DeLiM  DeLiM  DeLiM https://www.virtualflybrain.org/
+ Human Brain DeLiM /concepts/human.html DeLiM  DeLiM https://www.ebrains.eu/tools/human-brain-atlas DeLiM  DeLiM 
+ Kangaroo Brain DeLiM /concepts/kangaroo.html DeLiM  DeLiM  DeLiM https://brainmuseum.org/specimens/diprotodontia/redkangaroo/index.html DeLiM 
+ Monkey Brain DeLiM /concepts/monkey.html DeLiM  DeLiM https://www.ebrains.eu/tools/monkey-brain-atlas DeLiM  DeLiM 
+ Mouse Brain DeLiM /concepts/mouse.html DeLiM  DeLiM https://www.ebrains.eu/tools/mouse-brain DeLiM  DeLiM 
+ Octopus Brain DeLiM /concepts/octopus.html DeLiM  DeLiM  DeLiM  DeLiM 
+ Rabbit Brain DeLiM /concepts/rabbit.html DeLiM  DeLiM  DeLiM https://brainmuseum.org/specimens/lagomorpha/domesticrabbit/index.html DeLiM 
+ Rat Brain DeLiM /concepts/rat.html DeLiM  DeLiM https://www.ebrains.eu/tools/rat-brain DeLiM  DeLiM 
+ Zebra Brain DeLiM /concepts/zebra.html DeLiM  DeLiM  DeLiM https://brainmuseum.org/specimens/perissodactyla/zebra/index.html DeLiM 
+ Zebrafish Brain DeLiM /concepts/zebrafish.html DeLiM https://azba.wayne.edu/ DeLiM  DeLiM  DeLiM https://azba.wayne.edu/
+
+Results as JSON, CSV, TSV or Tree
+ link /search.json?q=title%20How%20many%20species%20have%20brain%20atlases%3F%0Aselect%20atlas%20ebrains%20brainMuseum%20atlas%0Awhere%20type%20%3D%20species JSON
+ link /search.csv?q=title%20How%20many%20species%20have%20brain%20atlases%3F%0Aselect%20atlas%20ebrains%20brainMuseum%20atlas%0Awhere%20type%20%3D%20species CSV
+ link /search.tsv?q=title%20How%20many%20species%20have%20brain%20atlases%3F%0Aselect%20atlas%20ebrains%20brainMuseum%20atlas%0Awhere%20type%20%3D%20species TSV
+ link /search.tree?q=title%20How%20many%20species%20have%20brain%20atlases%3F%0Aselect%20atlas%20ebrains%20brainMuseum%20atlas%0Awhere%20type%20%3D%20species Tree
+
+<script>document.addEventListener("DOMContentLoaded", () => TrueBaseBrowserApp.getApp().render().renderSearchPage())</script>
+
+import footer.scroll

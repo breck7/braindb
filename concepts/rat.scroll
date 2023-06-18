@@ -1,0 +1,18 @@
+import ../header.scroll
+viewSourceUrl /concepts/rat.bdb
+keyboardNav rabbit.html schizophrenia.html
+html <a class="trueBaseThemePreviousItem" href="rabbit.html">&lt;</a><a class="trueBaseThemeNextItem" href="schizophrenia.html">&gt;</a>
+
+title Rat Brain
+
+
+
+Edit
+ link /edit.html?id=rat
+
+code
+ title Rat Brain
+ type species
+ ebrains https://www.ebrains.eu/tools/rat-brain
+
+import ../footer.scroll

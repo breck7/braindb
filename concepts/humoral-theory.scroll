@@ -1,0 +1,27 @@
+import ../header.scroll
+viewSourceUrl /concepts/humoral-theory.bdb
+keyboardNav human.html huntingtons-disease.html
+html <a class="trueBaseThemePreviousItem" href="human.html">&lt;</a><a class="trueBaseThemeNextItem" href="huntingtons-disease.html">&gt;</a>
+
+title Humoral Theory
+
+
+
+Edit
+ link /edit.html?id=humoral-theory
+
+code
+ title Humoral Theory
+ type philosophy model
+ wikipedia https://en.wikipedia.org/wiki/Humorism
+ appeared -400
+ model
+  type humor
+  bloodHumor
+  phlegmHumor
+  yellowBileHumor
+  blackBileHumor
+  humor causes condition
+ 
+
+import ../footer.scroll

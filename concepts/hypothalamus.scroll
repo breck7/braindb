@@ -1,0 +1,18 @@
+import ../header.scroll
+viewSourceUrl /concepts/hypothalamus.bdb
+keyboardNav huntingtons-disease.html kangaroo.html
+html <a class="trueBaseThemePreviousItem" href="huntingtons-disease.html">&lt;</a><a class="trueBaseThemeNextItem" href="kangaroo.html">&gt;</a>
+
+title Hypothalamus
+
+
+
+Edit
+ link /edit.html?id=hypothalamus
+
+code
+ wikipedia https://en.wikipedia.org/wiki/Hypothalamus
+ title Hypothalamus
+ type part
+
+import ../footer.scroll

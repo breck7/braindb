@@ -1,0 +1,18 @@
+import ../header.scroll
+viewSourceUrl /concepts/amygdala.bdb
+keyboardNav alzheimers-disease.html anxiety-disorder.html
+html <a class="trueBaseThemePreviousItem" href="alzheimers-disease.html">&lt;</a><a class="trueBaseThemeNextItem" href="anxiety-disorder.html">&gt;</a>
+
+title Amygdala
+
+
+
+Edit
+ link /edit.html?id=amygdala
+
+code
+ wikipedia https://en.wikipedia.org/wiki/Amygdala
+ title Amygdala
+ type part
+
+import ../footer.scroll

@@ -1,0 +1,18 @@
+import ../header.scroll
+viewSourceUrl /concepts/dementia.bdb
+keyboardNav corpus-callosum.html depression.html
+html <a class="trueBaseThemePreviousItem" href="corpus-callosum.html">&lt;</a><a class="trueBaseThemeNextItem" href="depression.html">&gt;</a>
+
+title Dementia
+
+
+
+Edit
+ link /edit.html?id=dementia
+
+code
+ wikipedia https://en.wikipedia.org/wiki/Dementia
+ title Dementia
+ type condition
+
+import ../footer.scroll

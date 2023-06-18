@@ -1,0 +1,19 @@
+import ../header.scroll
+viewSourceUrl /concepts/mouse.bdb
+keyboardNav monkey.html multiple-sclerosis.html
+html <a class="trueBaseThemePreviousItem" href="monkey.html">&lt;</a><a class="trueBaseThemeNextItem" href="multiple-sclerosis.html">&gt;</a>
+
+title Mouse Brain
+
+
+
+Edit
+ link /edit.html?id=mouse
+
+code
+ title Mouse Brain
+ type species
+ wikipedia https://en.wikipedia.org/wiki/Mouse_brain
+ ebrains https://www.ebrains.eu/tools/mouse-brain
+
+import ../footer.scroll

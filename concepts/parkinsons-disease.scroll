@@ -1,0 +1,18 @@
+import ../header.scroll
+viewSourceUrl /concepts/parkinsons-disease.bdb
+keyboardNav octopus.html pons.html
+html <a class="trueBaseThemePreviousItem" href="octopus.html">&lt;</a><a class="trueBaseThemeNextItem" href="pons.html">&gt;</a>
+
+title Parkinson's disease
+
+
+
+Edit
+ link /edit.html?id=parkinsons-disease
+
+code
+ wikipedia https://en.wikipedia.org/wiki/Parkinson%27s_disease
+ title Parkinson's disease
+ type condition
+
+import ../footer.scroll

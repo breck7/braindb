@@ -1,0 +1,18 @@
+import ../header.scroll
+viewSourceUrl /concepts/tourette-syndrome.bdb
+keyboardNav thalamus.html traumatic-brain-injury.html
+html <a class="trueBaseThemePreviousItem" href="thalamus.html">&lt;</a><a class="trueBaseThemeNextItem" href="traumatic-brain-injury.html">&gt;</a>
+
+title Tourette syndrome
+
+
+
+Edit
+ link /edit.html?id=tourette-syndrome
+
+code
+ wikipedia https://en.wikipedia.org/wiki/Tourette_syndrome
+ title Tourette syndrome
+ type condition
+
+import ../footer.scroll

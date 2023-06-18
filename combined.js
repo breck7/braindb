@@ -2,267 +2,267 @@ var autocompleteJs = [
   {
     "label": "Acupuncture",
     "id": "acupuncture",
-    "url": "/rows/acupuncture.html"
+    "url": "/concepts/acupuncture.html"
   },
   {
     "label": "Alzheimer's disease",
     "id": "alzheimers-disease",
-    "url": "/rows/alzheimers-disease.html"
+    "url": "/concepts/alzheimers-disease.html"
   },
   {
     "label": "Amygdala",
     "id": "amygdala",
-    "url": "/rows/amygdala.html"
+    "url": "/concepts/amygdala.html"
   },
   {
     "label": "Anxiety disorder",
     "id": "anxiety-disorder",
-    "url": "/rows/anxiety-disorder.html"
+    "url": "/concepts/anxiety-disorder.html"
   },
   {
     "label": "Atharvaveda",
     "id": "atharvaveda",
-    "url": "/rows/atharvaveda.html"
+    "url": "/concepts/atharvaveda.html"
   },
   {
     "label": "Attention deficit hyperactivity disorder",
     "id": "attention-deficit-hyperactivity-disorder",
-    "url": "/rows/attention-deficit-hyperactivity-disorder.html"
+    "url": "/concepts/attention-deficit-hyperactivity-disorder.html"
   },
   {
     "label": "Autism spectrum disorder",
     "id": "autism-spectrum-disorder",
-    "url": "/rows/autism-spectrum-disorder.html"
+    "url": "/concepts/autism-spectrum-disorder.html"
   },
   {
     "label": "Ayurveda",
     "id": "ayurveda",
-    "url": "/rows/ayurveda.html"
+    "url": "/concepts/ayurveda.html"
   },
   {
     "label": "Basal Ganglia",
     "id": "basal-ganglia",
-    "url": "/rows/basal-ganglia.html"
+    "url": "/concepts/basal-ganglia.html"
   },
   {
     "label": "Bipolar disorder",
     "id": "bipolar-disorder",
-    "url": "/rows/bipolar-disorder.html"
+    "url": "/concepts/bipolar-disorder.html"
   },
   {
     "label": "Brain tumor",
     "id": "brain-tumor",
-    "url": "/rows/brain-tumor.html"
+    "url": "/concepts/brain-tumor.html"
   },
   {
     "label": "C. Elegans Brain ",
     "id": "c-elegans",
-    "url": "/rows/c-elegans.html"
+    "url": "/concepts/c-elegans.html"
   },
   {
     "label": "Cat Brain",
     "id": "cat",
-    "url": "/rows/cat.html"
+    "url": "/concepts/cat.html"
   },
   {
     "label": "Cerebellum",
     "id": "cerebellum",
-    "url": "/rows/cerebellum.html"
+    "url": "/concepts/cerebellum.html"
   },
   {
     "label": "Cerebrum",
     "id": "cerebrum",
-    "url": "/rows/cerebrum.html"
+    "url": "/concepts/cerebrum.html"
   },
   {
     "label": "Corpus Callosum",
     "id": "corpus-callosum",
-    "url": "/rows/corpus-callosum.html"
+    "url": "/concepts/corpus-callosum.html"
   },
   {
     "label": "Dementia",
     "id": "dementia",
-    "url": "/rows/dementia.html"
+    "url": "/concepts/dementia.html"
   },
   {
     "label": "Depression",
     "id": "depression",
-    "url": "/rows/depression.html"
+    "url": "/concepts/depression.html"
   },
   {
     "label": "Dog Brain",
     "id": "dog",
-    "url": "/rows/dog.html"
+    "url": "/concepts/dog.html"
   },
   {
     "label": "Edwin Smith Papyrus",
     "id": "edwin-smith-papyrus",
-    "url": "/rows/edwin-smith-papyrus.html"
+    "url": "/concepts/edwin-smith-papyrus.html"
   },
   {
     "label": "Elephant Brain",
     "id": "elephant",
-    "url": "/rows/elephant.html"
+    "url": "/concepts/elephant.html"
   },
   {
     "label": "Epilepsy",
     "id": "epilepsy",
-    "url": "/rows/epilepsy.html"
+    "url": "/concepts/epilepsy.html"
   },
   {
     "label": "Fruit Fly Brain",
     "id": "fruit-fly",
-    "url": "/rows/fruit-fly.html"
+    "url": "/concepts/fruit-fly.html"
   },
   {
     "label": "Germ Theory",
     "id": "germ-theory",
-    "url": "/rows/germ-theory.html"
+    "url": "/concepts/germ-theory.html"
   },
   {
     "label": "Hippocampus",
     "id": "hippocampus",
-    "url": "/rows/hippocampus.html"
+    "url": "/concepts/hippocampus.html"
   },
   {
     "label": "Huangdi Neijing",
     "id": "huangchi-neijing",
-    "url": "/rows/huangchi-neijing.html"
+    "url": "/concepts/huangchi-neijing.html"
   },
   {
     "label": "Human Brain",
     "id": "human",
-    "url": "/rows/human.html"
+    "url": "/concepts/human.html"
   },
   {
     "label": "Humoral Theory",
     "id": "humoral-theory",
-    "url": "/rows/humoral-theory.html"
+    "url": "/concepts/humoral-theory.html"
   },
   {
     "label": "Huntington's disease",
     "id": "huntingtons-disease",
-    "url": "/rows/huntingtons-disease.html"
+    "url": "/concepts/huntingtons-disease.html"
   },
   {
     "label": "Hypothalamus",
     "id": "hypothalamus",
-    "url": "/rows/hypothalamus.html"
+    "url": "/concepts/hypothalamus.html"
   },
   {
     "label": "Kangaroo Brain",
     "id": "kangaroo",
-    "url": "/rows/kangaroo.html"
+    "url": "/concepts/kangaroo.html"
   },
   {
     "label": "Miasma Theory",
     "id": "miasma-theory",
-    "url": "/rows/miasma-theory.html"
+    "url": "/concepts/miasma-theory.html"
   },
   {
     "label": "Midbrain",
     "id": "midbrain",
-    "url": "/rows/midbrain.html"
+    "url": "/concepts/midbrain.html"
   },
   {
     "label": "Migraine",
     "id": "migraine",
-    "url": "/rows/migraine.html"
+    "url": "/concepts/migraine.html"
   },
   {
     "label": "Monkey Brain",
     "id": "monkey",
-    "url": "/rows/monkey.html"
+    "url": "/concepts/monkey.html"
   },
   {
     "label": "Mouse Brain",
     "id": "mouse",
-    "url": "/rows/mouse.html"
+    "url": "/concepts/mouse.html"
   },
   {
     "label": "Multiple sclerosis",
     "id": "multiple-sclerosis",
-    "url": "/rows/multiple-sclerosis.html"
+    "url": "/concepts/multiple-sclerosis.html"
   },
   {
     "label": "Narcolepsy",
     "id": "narcolepsy",
-    "url": "/rows/narcolepsy.html"
+    "url": "/concepts/narcolepsy.html"
   },
   {
     "label": "Obsessive-compulsive disorder",
     "id": "obsessive-compulsive-disorder",
-    "url": "/rows/obsessive-compulsive-disorder.html"
+    "url": "/concepts/obsessive-compulsive-disorder.html"
   },
   {
     "label": "Octopus Brain",
     "id": "octopus",
-    "url": "/rows/octopus.html"
+    "url": "/concepts/octopus.html"
   },
   {
     "label": "Parkinson's disease",
     "id": "parkinsons-disease",
-    "url": "/rows/parkinsons-disease.html"
+    "url": "/concepts/parkinsons-disease.html"
   },
   {
     "label": "Pons",
     "id": "pons",
-    "url": "/rows/pons.html"
+    "url": "/concepts/pons.html"
   },
   {
     "label": "Post-traumatic stress disorder",
     "id": "post-traumatic-stress-disorder",
-    "url": "/rows/post-traumatic-stress-disorder.html"
+    "url": "/concepts/post-traumatic-stress-disorder.html"
   },
   {
     "label": "Rabbit Brain",
     "id": "rabbit",
-    "url": "/rows/rabbit.html"
+    "url": "/concepts/rabbit.html"
   },
   {
     "label": "Rat Brain",
     "id": "rat",
-    "url": "/rows/rat.html"
+    "url": "/concepts/rat.html"
   },
   {
     "label": "Schizophrenia",
     "id": "schizophrenia",
-    "url": "/rows/schizophrenia.html"
+    "url": "/concepts/schizophrenia.html"
   },
   {
     "label": "Stroke",
     "id": "stroke",
-    "url": "/rows/stroke.html"
+    "url": "/concepts/stroke.html"
   },
   {
     "label": "Thalamus",
     "id": "thalamus",
-    "url": "/rows/thalamus.html"
+    "url": "/concepts/thalamus.html"
   },
   {
     "label": "Tourette syndrome",
     "id": "tourette-syndrome",
-    "url": "/rows/tourette-syndrome.html"
+    "url": "/concepts/tourette-syndrome.html"
   },
   {
     "label": "Traumatic brain injury",
     "id": "traumatic-brain-injury",
-    "url": "/rows/traumatic-brain-injury.html"
+    "url": "/concepts/traumatic-brain-injury.html"
   },
   {
     "label": "Trepanation",
     "id": "trepanation",
-    "url": "/rows/trepanation.html"
+    "url": "/concepts/trepanation.html"
   },
   {
     "label": "Zebra Brain",
     "id": "zebra",
-    "url": "/rows/zebra.html"
+    "url": "/concepts/zebra.html"
   },
   {
     "label": "Zebrafish Brain",
     "id": "zebrafish",
-    "url": "/rows/zebrafish.html"
+    "url": "/concepts/zebrafish.html"
   }
 ]
 
@@ -18423,7 +18423,7 @@ class TrueBaseBrowserApp {
     if (data.error) return (document.getElementById("formHolder").innerHTML = data.error)
 
     const id = this.currentFileId
-    document.getElementById("pageTitle").innerHTML = `Improve <i><a href="/rows/${id}.html">${filename}</a></i>`
+    document.getElementById("pageTitle").innerHTML = `Improve <i><a href="/concepts/${id}.html">${filename}</a></i>`
 
     this.codeMirrorInstance.setValue(localValue ? localValue.childrenToString() : data.content)
     const title = new TreeNode(this.value).get("title") || filename

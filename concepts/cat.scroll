@@ -1,0 +1,18 @@
+import ../header.scroll
+viewSourceUrl /concepts/cat.bdb
+keyboardNav c-elegans.html cerebellum.html
+html <a class="trueBaseThemePreviousItem" href="c-elegans.html">&lt;</a><a class="trueBaseThemeNextItem" href="cerebellum.html">&gt;</a>
+
+title Cat Brain
+
+
+
+Edit
+ link /edit.html?id=cat
+
+code
+ title Cat Brain
+ type species
+ atlas https://brainmuseum.org/specimens/carnivora/cat/sections/thumbnail.html
+
+import ../footer.scroll

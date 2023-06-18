@@ -1,0 +1,22 @@
+import ../header.scroll
+viewSourceUrl /concepts/germ-theory.bdb
+keyboardNav fruit-fly.html hippocampus.html
+html <a class="trueBaseThemePreviousItem" href="fruit-fly.html">&lt;</a><a class="trueBaseThemeNextItem" href="hippocampus.html">&gt;</a>
+
+title Germ Theory
+
+
+
+Edit
+ link /edit.html?id=germ-theory
+
+code
+ title Germ Theory
+ wikipedia https://en.wikipedia.org/wiki/Germ_theory_of_disease
+ type model
+ model
+  type microbe
+  // https://en.wikipedia.org/wiki/Microorganism
+  microbe causes condition
+
+import ../footer.scroll
