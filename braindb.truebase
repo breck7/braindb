@@ -1,8 +1,8 @@
 trueBaseId braindb
 name BrainDB
 domain localhost
-grammarFolder ./columns
-rowsFolder ./concepts
+questionsFolder ./questions
+conceptsFolder ./concepts
 queriesFolder ./queries
 ignoreFolder ./ignore
 siteFolder ./site
