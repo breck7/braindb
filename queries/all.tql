@@ -1,1 +1,2 @@
 title What are all the concepts in BrainDB?
+select type

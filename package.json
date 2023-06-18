@@ -16,6 +16,6 @@
   },
   "homepage": "https://github.com/breck7/braindb#readme",
   "dependencies": {
-    "truebase": "^19.0.0"
+    "truebase": "^20.0.0"
   }
 }
