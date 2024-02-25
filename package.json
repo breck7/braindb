@@ -1,11 +1,12 @@
 {
   "name": "braindb",
   "version": "1.0.0",
-  "description": "Key concepts about the brain in one model.",
+  "description": "key data on the brain in one table.",
   "main": "index.js",
   "scripts": {
     "test": "truebase test",
-    "static": "truebase static"
+    "static": "truebase static",
+    "local": "./Server.js startDevServer"
   },
   "repository": {
     "type": "git",
@@ -16,6 +17,6 @@
   },
   "homepage": "https://github.com/breck7/braindb#readme",
   "dependencies": {
-    "truebase": "^20.0.0"
+    "truebase": "^21.1.0"
   }
 }
