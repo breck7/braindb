@@ -1,5 +1,5 @@
 import header.scroll
-title SITE_NAME Questions
+title SITE_NAME Measures
 
 css
  .scrollTableComponent td {
@@ -11,26 +11,26 @@ css
    text-overflow: ellipsis;
  }
 
-Download TRUEBASE_ID.csv
- link TRUEBASE_ID.csv
+Download TRUEBASE_ID.csv. 
+ link TRUEBASE_ID.csv Download TRUEBASE_ID.csv
 
-SITE_NAME contains 12 questions on 53 concepts and builds one main CSV file. `TRUEBASE_ID.csv` is 4.7KB uncompressed (1.3KB <a href="/braindb.csv.zip">compressed</a>). Every row is an concept and every concept is one row. Every question is one column and every column is one question. You can also download the typed tree structured data as JSON.
+SITE_NAME contains 12 measures on 53 concepts with 176 total measurements and builds one main CSV file. `TRUEBASE_ID.csv` is 4.7KB uncompressed (1.3KB <a href="/braindb.csv.zip">compressed</a>). Every row is one concept and every concept is one row. Every measure is one column and every column is one measure. Every measurement is one non-empty cell and every non-empty cell is one measurement (excluding cells in the header row which contain the measure names). You can also download the typed tree structured data as JSON.
  link TRUEBASE_ID.json JSON
 
 table !~DELIM~!
  Index!~DELIM~!Name!~DELIM~!NameLink!~DELIM~!Question!~DELIM~!Example!~DELIM~!Values!~DELIM~!Coverage!~DELIM~!Type!~DELIM~!Source!~DELIM~!SourceLink!~DELIM~!Definition!~DELIM~!DefinitionLink
-  1!~DELIM~!title!~DELIM~!search.html?q=select+title%0D%0AnotMissing+title%0D%0AsortBy+title%0D%0Areverse!~DELIM~!What is the title of this concept?!~DELIM~!Acupuncture!~DELIM~!53!~DELIM~!100%!~DELIM~!string!~DELIM~!!~DELIM~!!~DELIM~!title.grammar!~DELIM~!/questions/title.grammar#L1
-  2!~DELIM~!type!~DELIM~!search.html?q=select+type%0D%0AnotMissing+type%0D%0AsortBy+type%0D%0Areverse!~DELIM~!What kind(s) of concept is this?!~DELIM~!procedure!~DELIM~!53!~DELIM~!100%!~DELIM~!enum!~DELIM~!!~DELIM~!!~DELIM~!type.grammar!~DELIM~!/questions/type.grammar#L4
-  3!~DELIM~!wikipedia!~DELIM~!search.html?q=select+wikipedia%0D%0AnotMissing+wikipedia%0D%0AsortBy+wikipedia%0D%0Areverse!~DELIM~!What is the URL of this concept on Wikipedia, if and only if it has a page dedicated to it?!~DELIM~!https://en.wikipedia.org/wiki/!~DELIM~!40!~DELIM~!75%!~DELIM~!url!~DELIM~!wikipedia.org!~DELIM~!https://wikipedia.org!~DELIM~!wikipedia.grammar!~DELIM~!/questions/wikipedia.grammar#L1
-  4!~DELIM~!appeared!~DELIM~!search.html?q=select+appeared%0D%0AnotMissing+appeared%0D%0AsortBy+appeared%0D%0Areverse!~DELIM~!What year did this first appear?!~DELIM~!-100!~DELIM~!6!~DELIM~!11%!~DELIM~!integer!~DELIM~!!~DELIM~!!~DELIM~!history.grammar!~DELIM~!/questions/history.grammar#L1
-  5!~DELIM~!country!~DELIM~!search.html?q=select+country%0D%0AnotMissing+country%0D%0AsortBy+country%0D%0Areverse!~DELIM~!What country did this first appear in?!~DELIM~!China!~DELIM~!5!~DELIM~!9%!~DELIM~!unspecified!~DELIM~!!~DELIM~!!~DELIM~!country.grammar!~DELIM~!/questions/country.grammar#L3
-  6!~DELIM~!atlas!~DELIM~!search.html?q=select+atlas%0D%0AnotMissing+atlas%0D%0AsortBy+atlas%0D%0Areverse!~DELIM~!What is the URL to a brain atlas or virtual atlas for this species?!~DELIM~!https://wormatlas.org/!~DELIM~!5!~DELIM~!9%!~DELIM~!url!~DELIM~!!~DELIM~!!~DELIM~!atlas.grammar!~DELIM~!/questions/atlas.grammar#L5
-  7!~DELIM~!ebrains!~DELIM~!search.html?q=select+ebrains%0D%0AnotMissing+ebrains%0D%0AsortBy+ebrains%0D%0Areverse!~DELIM~!What is the URL to an EBrains atlas for this species?!~DELIM~!https://www.ebrains.eu/tools/h!~DELIM~!4!~DELIM~!8%!~DELIM~!url!~DELIM~!ebrains.eu!~DELIM~!https://ebrains.eu!~DELIM~!ebrains.grammar!~DELIM~!/questions/ebrains.grammar#L1
-  8!~DELIM~!brainMuseum!~DELIM~!search.html?q=select+brainMuseum%0D%0AnotMissing+brainMuseum%0D%0AsortBy+brainMuseum%0D%0Areverse!~DELIM~!What is the URL to this species on BrainMuseum.org?!~DELIM~!https://brainmuseum.org/specim!~DELIM~!4!~DELIM~!8%!~DELIM~!url!~DELIM~!brainmuseum.org!~DELIM~!https://brainmuseum.org!~DELIM~!brainmuseum.grammar!~DELIM~!/questions/brainmuseum.grammar#L1
-  9!~DELIM~!model!~DELIM~!search.html?q=select+model%0D%0AnotMissing+model%0D%0AsortBy+model%0D%0Areverse!~DELIM~!What is a representative of this model?!~DELIM~!type microbe // https://en.wik!~DELIM~!3!~DELIM~!6%!~DELIM~!multilineString!~DELIM~!!~DELIM~!!~DELIM~!model.grammar!~DELIM~!/questions/model.grammar#L1
-  10!~DELIM~!description!~DELIM~!search.html?q=select+description%0D%0AnotMissing+description%0D%0AsortBy+description%0D%0Areverse!~DELIM~!What is a short description of this thing?!~DELIM~!A surgical intervention in whi!~DELIM~!1!~DELIM~!2%!~DELIM~!string!~DELIM~!!~DELIM~!!~DELIM~!description.grammar!~DELIM~!/questions/description.grammar#L1
-  11!~DELIM~!reference!~DELIM~!search.html?q=select+reference%0D%0AnotMissing+reference%0D%0AsortBy+reference%0D%0Areverse!~DELIM~!What is a URL to a reference about this thing?!~DELIM~!https://www.ncbi.nlm.nih.gov/p!~DELIM~!1!~DELIM~!2%!~DELIM~!url!~DELIM~!!~DELIM~!!~DELIM~!reference.grammar!~DELIM~!/questions/reference.grammar#L1
-  12!~DELIM~!atlasPaper!~DELIM~!search.html?q=select+atlasPaper%0D%0AnotMissing+atlasPaper%0D%0AsortBy+atlasPaper%0D%0Areverse!~DELIM~!What is a URL to a paper about an atlas for this species?!~DELIM~!https://www.ncbi.nlm.nih.gov/p!~DELIM~!1!~DELIM~!2%!~DELIM~!url!~DELIM~!!~DELIM~!!~DELIM~!atlas.grammar!~DELIM~!/questions/atlas.grammar#L7
+  1!~DELIM~!title!~DELIM~!search.html?q=select+title%0D%0AnotMissing+title%0D%0AsortBy+title%0D%0Areverse!~DELIM~!What is the title of this concept?!~DELIM~!Acupuncture!~DELIM~!53!~DELIM~!100%!~DELIM~!string!~DELIM~!!~DELIM~!!~DELIM~!title.grammar!~DELIM~!/measures/title.grammar#L1
+  2!~DELIM~!type!~DELIM~!search.html?q=select+type%0D%0AnotMissing+type%0D%0AsortBy+type%0D%0Areverse!~DELIM~!What kind(s) of concept is this?!~DELIM~!procedure!~DELIM~!53!~DELIM~!100%!~DELIM~!enum!~DELIM~!!~DELIM~!!~DELIM~!type.grammar!~DELIM~!/measures/type.grammar#L4
+  3!~DELIM~!wikipedia!~DELIM~!search.html?q=select+wikipedia%0D%0AnotMissing+wikipedia%0D%0AsortBy+wikipedia%0D%0Areverse!~DELIM~!What is the URL of this concept on Wikipedia, if and only if it has a page dedicated to it?!~DELIM~!https://en.wikipedia.org/wiki/!~DELIM~!40!~DELIM~!75%!~DELIM~!url!~DELIM~!wikipedia.org!~DELIM~!https://wikipedia.org!~DELIM~!wikipedia.grammar!~DELIM~!/measures/wikipedia.grammar#L1
+  4!~DELIM~!appeared!~DELIM~!search.html?q=select+appeared%0D%0AnotMissing+appeared%0D%0AsortBy+appeared%0D%0Areverse!~DELIM~!What year did this first appear?!~DELIM~!-100!~DELIM~!6!~DELIM~!11%!~DELIM~!integer!~DELIM~!!~DELIM~!!~DELIM~!history.grammar!~DELIM~!/measures/history.grammar#L1
+  5!~DELIM~!country!~DELIM~!search.html?q=select+country%0D%0AnotMissing+country%0D%0AsortBy+country%0D%0Areverse!~DELIM~!What country did this first appear in?!~DELIM~!China!~DELIM~!5!~DELIM~!9%!~DELIM~!unspecified!~DELIM~!!~DELIM~!!~DELIM~!country.grammar!~DELIM~!/measures/country.grammar#L3
+  6!~DELIM~!atlas!~DELIM~!search.html?q=select+atlas%0D%0AnotMissing+atlas%0D%0AsortBy+atlas%0D%0Areverse!~DELIM~!What is the URL to a brain atlas or virtual atlas for this species?!~DELIM~!https://wormatlas.org/!~DELIM~!5!~DELIM~!9%!~DELIM~!url!~DELIM~!!~DELIM~!!~DELIM~!atlas.grammar!~DELIM~!/measures/atlas.grammar#L5
+  7!~DELIM~!ebrains!~DELIM~!search.html?q=select+ebrains%0D%0AnotMissing+ebrains%0D%0AsortBy+ebrains%0D%0Areverse!~DELIM~!What is the URL to an EBrains atlas for this species?!~DELIM~!https://www.ebrains.eu/tools/h!~DELIM~!4!~DELIM~!8%!~DELIM~!url!~DELIM~!ebrains.eu!~DELIM~!https://ebrains.eu!~DELIM~!ebrains.grammar!~DELIM~!/measures/ebrains.grammar#L1
+  8!~DELIM~!brainMuseum!~DELIM~!search.html?q=select+brainMuseum%0D%0AnotMissing+brainMuseum%0D%0AsortBy+brainMuseum%0D%0Areverse!~DELIM~!What is the URL to this species on BrainMuseum.org?!~DELIM~!https://brainmuseum.org/specim!~DELIM~!4!~DELIM~!8%!~DELIM~!url!~DELIM~!brainmuseum.org!~DELIM~!https://brainmuseum.org!~DELIM~!brainmuseum.grammar!~DELIM~!/measures/brainmuseum.grammar#L1
+  9!~DELIM~!model!~DELIM~!search.html?q=select+model%0D%0AnotMissing+model%0D%0AsortBy+model%0D%0Areverse!~DELIM~!What is a representative of this model?!~DELIM~!type microbe // https://en.wik!~DELIM~!3!~DELIM~!6%!~DELIM~!multilineString!~DELIM~!!~DELIM~!!~DELIM~!model.grammar!~DELIM~!/measures/model.grammar#L1
+  10!~DELIM~!description!~DELIM~!search.html?q=select+description%0D%0AnotMissing+description%0D%0AsortBy+description%0D%0Areverse!~DELIM~!What is a short description of this thing?!~DELIM~!A surgical intervention in whi!~DELIM~!1!~DELIM~!2%!~DELIM~!string!~DELIM~!!~DELIM~!!~DELIM~!description.grammar!~DELIM~!/measures/description.grammar#L1
+  11!~DELIM~!reference!~DELIM~!search.html?q=select+reference%0D%0AnotMissing+reference%0D%0AsortBy+reference%0D%0Areverse!~DELIM~!What is a URL to a reference about this thing?!~DELIM~!https://www.ncbi.nlm.nih.gov/p!~DELIM~!1!~DELIM~!2%!~DELIM~!url!~DELIM~!!~DELIM~!!~DELIM~!reference.grammar!~DELIM~!/measures/reference.grammar#L1
+  12!~DELIM~!atlasPaper!~DELIM~!search.html?q=select+atlasPaper%0D%0AnotMissing+atlasPaper%0D%0AsortBy+atlasPaper%0D%0Areverse!~DELIM~!What is a URL to a paper about an atlas for this species?!~DELIM~!https://www.ncbi.nlm.nih.gov/p!~DELIM~!1!~DELIM~!2%!~DELIM~!url!~DELIM~!!~DELIM~!!~DELIM~!atlas.grammar!~DELIM~!/measures/atlas.grammar#L7
 
 The table above is also available as csv.
  link BASE_URL/columns.csv csv
