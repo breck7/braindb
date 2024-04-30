@@ -1,0 +1,29 @@
+import header.scroll
+title BrainDB: Datasets about the brain
+groups All
+date 04/30/2024
+
+startColumns 1
+
+BrainDB is a dataset collection and blog to help people understand their brains and take actions for optimal brain health.
+
+endSnippet
+
+## To cite BrainDB
+BrainDB content is published to the public domain and you can use it freely. If needed, here are 3 options for citing BrainDB:
+code
+ https://braindb.com
+code
+ BrainDB team. (2024) - "BrainDB: a dataset collection and blog about brains". Retrieved from: 'https://braindb.com' [Online Resource]
+code
+ @article{braindb,
+  author = {BrainDB team},
+  title = {BrainDB: a dataset collection and blog about brains.},
+  journal = {BrainDB},
+  year = {2024},
+  note = {https://braindb.com}
+ }
+
+endColumns
+permalink about.html
+import pageFooter.scroll

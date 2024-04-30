@@ -1,8 +1,0 @@
-countryNameCell
- extends stringCell
-countryParser
- uniqueLine
- description What country did this first appear in?
- catchAllCellType countryNameCell
- extends abstractTrueBaseColumnParser
- single false

@@ -1,3 +1,0 @@
-appearedParser
- description What year did this first appear?
- extends abstractYearColumnParser

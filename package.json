@@ -1,0 +1,19 @@
+{
+  "name": "braindb",
+  "version": "2.0.0",
+  "description": "Datasets about the brain.",
+  "scripts": {
+    "build": "scroll list | scroll build",
+    "test": "scroll list | scroll test",
+    "open": "open index.html",
+    "up": "npm install scroll-cli@latest"
+  },
+  "homepage": "https://braindb.com",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/breck7/braindb.git"
+  },
+  "dependencies": {
+    "scroll-cli": "^81.1.0"
+  }
+}

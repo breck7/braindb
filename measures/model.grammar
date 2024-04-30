@@ -1,3 +1,0 @@
-modelParser
- description What is a representative of this model?
- extends abstractStringBlobColumnParser

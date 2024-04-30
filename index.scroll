@@ -1,24 +1,6 @@
 import header.scroll
-
-title SITE_NAME
- hidden
-
-# SITE_NAME: SITE_DESCRIPTION
-
-<center>
-
-import searchForm.scroll
-
-replace BASE_URL .
-
-Saved queries
- link queries.html
- class headerLink
-
-import newQueries.scroll
-
-import homepageFeature.scroll
-
-</center>
+title BrainDB
+description Datasets about the brain.
+snippets All
 
 import footer.scroll
