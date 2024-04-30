@@ -1,0 +1,18 @@
+import header.scroll
+groups All
+title The New Tech Stack
+date 04/30/2024 8:23
+
+byLine https://breckyunits.com/ Breck Yunits
+
+startColumns 1
+
+LLMs changed everything. It is now clear the old tech stack was not going to work. The new plan is to use just Scroll (and LLMs) for building BrainDB^if.
+ dateline
+ https://scroll.pub/ Scroll
+
+endSnippet
+
+^if Though at the moment I have other priorities than BrainDB, so may never get around to it.
+
+import pageFooter.scroll

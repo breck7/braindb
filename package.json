@@ -1,22 +1,19 @@
 {
   "name": "braindb",
-  "version": "1.0.0",
-  "description": "key data on the brain in one table.",
-  "main": "index.js",
+  "version": "2.0.0",
+  "description": "Datasets about the brain.",
   "scripts": {
-    "test": "truebase test",
-    "static": "truebase static",
-    "local": "./Server.js startDevServer"
+    "build": "scroll list | scroll build",
+    "test": "scroll list | scroll test",
+    "open": "open index.html",
+    "up": "npm install scroll-cli@latest"
   },
+  "homepage": "https://braindb.com",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/breck7/braindb.git"
   },
-  "bugs": {
-    "url": "https://github.com/breck7/braindb/issues"
-  },
-  "homepage": "https://github.com/breck7/braindb#readme",
   "dependencies": {
-    "truebase": "^21.1.0"
+    "scroll-cli": "^81.1.0"
   }
 }

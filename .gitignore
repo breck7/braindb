@@ -3,3 +3,4 @@ ignore/
 package-lock.json
 static/
 .DS_Store
+*.html

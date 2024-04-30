@@ -1,9 +1,0 @@
-trueBaseId braindb
-name BrainDB
-domain localhost
-measuresFolder ./measures
-conceptsFolder ./concepts
-queriesFolder ./queries
-ignoreFolder ./ignore
-siteFolder ./site
-devPort 5678
