@@ -1,7 +1,7 @@
 importOnly
-git https://github.com/breck7/scroll
-email feedback@scroll.pub
-baseUrl https://scroll.pub/
+git https://github.com/breck7/braindb
+email feedback@braindb.com
+baseUrl https://braindb.com/
 metaTags
 gazetteCss
 pageHeader
