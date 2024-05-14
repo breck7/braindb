@@ -14,6 +14,6 @@
     "url": "git+https://github.com/breck7/braindb.git"
   },
   "dependencies": {
-    "scroll-cli": "^81.1.0"
+    "scroll-cli": "^87.0.0"
   }
 }
